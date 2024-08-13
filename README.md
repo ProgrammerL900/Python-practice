@@ -1,2 +1,5 @@
 # Python-practice
-Practicing Python with teach yourself help books
+
+Practicing Python on my own with guided practice books
+
+* Teach Yourself VISUALLY Python by Guy Hart-Davis and Ted Hart-Davis
